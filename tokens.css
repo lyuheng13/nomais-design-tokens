@@ -11,5 +11,13 @@
   --font-sans: 'Mona Sans', -apple-system, BlinkMacSystemFont, sans-serif;
   --font-serif: var(--font-sans);
   --font-mono: 'JetBrains Mono', 'SF Mono', monospace;
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.25rem;
+  --text-xl: 1.5rem;
+  --text-2xl: 2rem;
+  --text-3xl: 2.5rem;
+  --text-hero: clamp(3rem, 5vw, 4rem);
   --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
 }
