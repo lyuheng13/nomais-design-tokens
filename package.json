@@ -1,0 +1,8 @@
+{
+  "name": "@nomais/design-tokens",
+  "version": "1.0.0",
+  "description": "Shared design tokens for Nomais projects",
+  "private": true,
+  "main": "tokens.css",
+  "files": ["tokens.css"]
+}

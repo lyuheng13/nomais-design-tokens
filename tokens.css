@@ -1,0 +1,15 @@
+:root {
+  --bg: #050a06;
+  --green: #2D7A4C;
+  --green-light: #3D9A62;
+  --green-bright: #4ABA72;
+  --green-muted: #1E5535;
+  --text: #D8E2DA;
+  --text-muted: #6B7D70;
+  --text-dim: #3E5145;
+  --border-vis: rgba(45, 122, 76, 0.2);
+  --font-sans: 'Mona Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-serif: var(--font-sans);
+  --font-mono: 'JetBrains Mono', 'SF Mono', monospace;
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+}
