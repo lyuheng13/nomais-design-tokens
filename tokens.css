@@ -1,12 +1,12 @@
 :root {
-  --bg: #050a06;
+  --bg: #0a0a0a;
   --green: #2D7A4C;
   --green-light: #3D9A62;
   --green-bright: #4ABA72;
   --green-muted: #1E5535;
-  --text: #D8E2DA;
-  --text-muted: #6B7D70;
-  --text-dim: #3E5145;
+  --text: #EDEDEE;
+  --text-muted: #8A9490;
+  --text-dim: #505856;
   --border-vis: rgba(45, 122, 76, 0.2);
   --font-sans: 'Mona Sans', -apple-system, BlinkMacSystemFont, sans-serif;
   --font-serif: var(--font-sans);
